@@ -116,3 +116,6 @@ venv.bak/
 data/
 draft/
 Untitled.*
+
+# workspace
+workspace.code-workspace
